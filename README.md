@@ -13,4 +13,5 @@ The analysis of the temperature data for the months of June and December in Oahu
 ## Summary: 
 In looking into the temperature analysis for the island of Oahu, we have been able to determine that it is a viable business model based on the data we have analyzed. For an environment that typically averages a temperature that is between 70-80 degrees, that is perfect weather for locals and tourists. 
 Taking the analysis a step further, we have looked into the chance of precipitation just to be cautious. We have determined in looking at the precipitation averages for both months show minimal risk for rainy weather ruining the shops day, both months showing well under an inch average for the month.
+
    ![June_Precipitation](https://raw.githubusercontent.com/aquinn107/surfs_up/main/June_Precipitation.png)    ![December_Precipitation](https://raw.githubusercontent.com/aquinn107/surfs_up/main/December_Precipitation.png)
